@@ -1,0 +1,1 @@
+The CSS property `filter: blur()` doesn't work properly in Internet Explorer 11 and earlier versions.  It's also inconsistently supported across older versions of other browsers.  This can lead to unexpected visual differences in the appearance of elements between different browsers.  A common use case for blur is creating subtle drop shadows or out-of-focus effects.
